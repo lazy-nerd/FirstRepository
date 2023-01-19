@@ -1,2 +1,3 @@
 Iniial test file.
-Addin some text.
+Addin, some text.
+Another line
