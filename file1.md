@@ -4,4 +4,4 @@ asd new data (from branch master)
 add line from user1
 add line from user2
 some new feature for rebase
-=> line from user1 <rebase lesson>
+=> line from user1 <rebase lesson> // add from master
